@@ -12,3 +12,5 @@ Question 5 => Find out the words which are uncommon in both the Strings?
 
 Question 6 => Count the number of words in a List, a list contains strings seperated by a space
 
+Question 7 => Remove duplicates from an Array
+
