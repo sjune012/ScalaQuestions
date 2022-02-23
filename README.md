@@ -14,3 +14,7 @@ Question 6 => Count the number of words in a List, a list contains strings seper
 
 Question 7 => Remove duplicates from an Array
 
+Question 8 => Merge given intervals
+
+Question 9 => find Minimum and Maximum numbers from a List using Recursion
+
